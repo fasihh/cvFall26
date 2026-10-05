@@ -4,3 +4,6 @@
 *.csv
 .venv
 .ipynb_checkpoints
+*.avi
+*.mp4
+test/*

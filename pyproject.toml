@@ -8,4 +8,5 @@ dependencies = [
     "matplotlib>=3.11.1",
     "opencv-python>=5.0.0.93",
     "pandas>=3.0.5",
+    "pywavelets>=1.10.0",
 ]
