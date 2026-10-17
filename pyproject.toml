@@ -5,9 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "ipykernel>=7.4.0",
     "matplotlib>=3.11.1",
+    "open3d>=0.20.0",
     "opencv-python>=5.0.0.93",
     "pandas>=3.0.5",
+    "pycolmap>=4.2.1",
     "pywavelets>=1.10.0",
     "scikit-image>=0.26.0",
 ]
