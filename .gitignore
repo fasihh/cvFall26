@@ -9,3 +9,6 @@
 test/*
 *.JPG
 
+data/
+*.pth
+*.log
